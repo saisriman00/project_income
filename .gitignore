@@ -1,0 +1,4 @@
+.venv_income/
+__pycache__/
+*.pyc
+artifacts/
