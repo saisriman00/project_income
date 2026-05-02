@@ -8,6 +8,10 @@ This project is an end-to-end Machine Learning pipeline that predicts whether a 
 
 ---
 
+## 📁 Dataset
+The project uses the Adult Census dataset stored in:
+`data/raw/adult.csv`
+
 ## 🚀 Features
 - Data Ingestion from online source  
 - Data Preprocessing & Cleaning  
